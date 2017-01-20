@@ -1,3 +1,4 @@
+```
 半形字符与全形字符的比较（ASCII字符）[编辑]
 半形字符与全形字符的比较（ASCII字符）
 ASCII	全形字符	Unicode	半形字符	Unicode
@@ -236,3 +237,4 @@ JIS X 0201	半形字符	Unicode	全形字符	Unicode
 ￬	U+FFEC	↓	U+2193
 ￭	U+FFED	■	U+25A0
 ￮	U+FFEE	○	U+25CB
+```
