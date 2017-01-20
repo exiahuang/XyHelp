@@ -4,6 +4,7 @@
   * [SalesforceXyTools Install](http://www.ibmer.info/salesforcexytools-install.html)
   * [SalesforceXyTools Auto Create VF-Controller-DTO-DAO-Code](http://www.ibmer.info/auto-create-sfdc-code.html)
   * [SalesforceXyTools: Export Sobject To Excel](http://www.ibmer.info/export-sobject-excel.html)
+  * [SalesforceXyTools: Create test class ](http://www.ibmer.info/create-test-class.html)
   * [SalesforceXyTools Sublime Package](https://packagecontrol.io/packages/SalesforceXyTools)
 
 
