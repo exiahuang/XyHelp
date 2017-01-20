@@ -10,8 +10,9 @@
 ## Auto Create VF-Controller-DTO-DAO-Code
 Hello,I am Exia.huang.
 Today I will show you how to create testclass quickly by using SalesforceXyTools.
+And how to create to create test data quickly.
 
-## There are 5 steps.
+## 
 1. Open the apex code, and find the menu below.
   [SFDC-XY]->[SFDC Code Creator]->[Create Test Code]
   ![SOS](https://github.com/exiahuang/XyHelp/blob/master/SalesforceXyTools/testcode/Image%20001.jpg?raw=true)
